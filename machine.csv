@@ -1,4 +1,4 @@
-Model	Configuration	Cores	Frequency (MHz)	Memory (MB)	Storage (MB)	Threads	Cache (KB)	Bandwidth (MB/s)	Power (W)	Cost	Type
+Model,	Configuration,	Cores,	Frequency (MHz),	Memory (MB),	Storage (MB),	Threads	Cache (KB),	Bandwidth (MB/s),	Power (W),	Cost,	Type
 adviser	32/60	125	256	6000	256	16	128	198	199	199	High-Performance
 amdahl	470v/7	29	8000	32000	32	8	32	269	253	253	High-Performance
 amdahl	470v/7a	29	8000	32000	32	8	32	220	253	253	High-Performance
